@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nitish24t
+- 👀 I’m interested in Big Data Tools
+- 🌱 I’m currently learning Spark and Kafka
+- 📫 Follow me on LinkedIn at https://www.linkedin.com/in/nitish-pandey-24m/
